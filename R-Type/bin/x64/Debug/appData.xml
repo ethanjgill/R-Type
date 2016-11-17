@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<appData>
+  <title>R-Type</title>
+  <windows>
+    <window title ="R-Type" width="749" height="524" xPos="120" yPos="100"/>
+  </windows>
+  
+</appData>
